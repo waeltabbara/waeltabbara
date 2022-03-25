@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/WaelTabbara4" target="blank"><img src="https://img.shields.io/twitter/follow/WaelTabbara4?style=social" alt="waelt" /></a> </p>
 
-- 🌱 Learning HTML, CSS, JavaScript, WordPress
+- 🌱 HTML, CSS, JavaScript, WordPress
 
 - 👯 I’m looking to collaborate with [other learners]
 
